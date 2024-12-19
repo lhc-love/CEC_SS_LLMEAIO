@@ -1,4 +1,4 @@
-![本地图片](image.jpg)
+![本地图片](header_image.png)
 ## <center>IEEE CIS TASK FORCE ON</center>
 ## <center>LARGE MODELS FOR INDUSTRIAL OPTIMIZATION</center>
 
